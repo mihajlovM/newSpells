@@ -1,0 +1,10 @@
+/* Header.css */
+
+/* Style for the header title */
+.title {
+    flex-grow: 1;
+  }
+  
+  .loginButton {
+-left: 20px; /* Adjust the margin as needed */
+  }

@@ -1,0 +1,34 @@
+/* SpellCard.css */
+
+.card {
+    background-color: #F0F0F0;
+    border: 2px solid #000;
+    border-radius: 10px;
+    padding: 10px;
+    width: 300px;
+  }
+  
+  .cardTitle {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .cardIndex {
+    font-size: 18px;
+    font-weight: bold;
+    color: #FFD700; /* Gold */
+  }
+  
+  .cardDetails {
+    margin-top: 10px;
+  }
+  
+  .cardDescription {
+    font-size: 14px;
+  }
+  
+  .cardAttribute {
+    font-size: 14px;
+    color: #4682B4; /* Steel Blue */
+  }
+  
